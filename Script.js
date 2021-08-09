@@ -77,7 +77,7 @@ hit.addEventListener('click',(e)=>{
 
             const p4=document.createElement('p')
             p4.style.color='white'
-            p4.textContent=`Location : ${Location}`
+            p4.textContent=`Location : ${location}`
         
             const p5=document.createElement('p')
             p5.style.color='white'
